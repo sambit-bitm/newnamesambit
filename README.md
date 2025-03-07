@@ -1,2 +1,1 @@
-# newnamesambit
-My awesome codebase
+# this repo is for learning
